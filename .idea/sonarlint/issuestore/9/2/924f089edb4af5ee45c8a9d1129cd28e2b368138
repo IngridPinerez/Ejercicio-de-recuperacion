@@ -1,0 +1,43 @@
+
+}
+java:S1192%"`Define a constant instead of duplicating this literal "Error: Debe estar registrado. 
+" 4 times.(¡’¹É8ÜøÑ¬1
+R
+java:S4973$"<Strings and Boxed types should be compared using "equals()".(†•ÿ
+R
+java:S49730"<Strings and Boxed types should be compared using "equals()".(†•ÿ
+R
+java:S4973A"<Strings and Boxed types should be compared using "equals()".(†•ÿ
+R
+java:S4973J"<Strings and Boxed types should be compared using "equals()".(†•ÿ
+0
+java:S1220""Move this file to a named package.
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Çµí‘
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢½ÍÖùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»ğö¬ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õ›¹üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(İúñ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ì•Ë¤øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ¾˜ùùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ´ûåúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ç›ƒ¡
+N	java:S106"9Replace this use of System.out or System.err by a logger.(—àÁÒ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(¤ĞÄşÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(¡’¹É
+N	java:S106("9Replace this use of System.out or System.err by a logger.(£äûß
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ÆÓ—
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(¡’¹É
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(øî¥ãúÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(ÔéÅÄùÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(¢Ò¤Ø
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(¡’¹É
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(ˆºÔÈşÿÿÿÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(¡’¹É
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(ª›…
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(›ÎéÉ
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(ùéØŞ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
